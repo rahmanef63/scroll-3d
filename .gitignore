@@ -58,3 +58,6 @@ next-env.d.ts
 # editors
 .vscode/
 .idea/
+
+# Local MSO runtime state — never commit
+.mso/
