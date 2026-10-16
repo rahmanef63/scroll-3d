@@ -1,4 +1,4 @@
-# model-website
+# scroll-3d
 
 Talent showcase site. A 3D model orbits 360° as you scroll, zooming into
 keyframed points of interest under a sci-fi HUD.
@@ -11,7 +11,7 @@ Built to rr conventions: the feature is a vertical slice, the app is a thin host
 
 ## Deploy your own
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frahmanef63%2Fscroll-3d-showcase&env=NEXT_PUBLIC_CONVEX_URL,STUDIO_TOKEN&envDescription=Convex%20deployment%20URL%20and%20the%20studio%20password&envLink=https%3A%2F%2Fgithub.com%2Frahmanef63%2Fscroll-3d-showcase%23readme)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frahmanef63%2Fscroll-3d&env=NEXT_PUBLIC_CONVEX_URL,STUDIO_TOKEN&envDescription=Convex%20deployment%20URL%20and%20the%20studio%20password&envLink=https%3A%2F%2Fgithub.com%2Frahmanef63%2Fscroll-3d%23readme)
 
 Order matters, because the second half of it is a shared secret:
 
